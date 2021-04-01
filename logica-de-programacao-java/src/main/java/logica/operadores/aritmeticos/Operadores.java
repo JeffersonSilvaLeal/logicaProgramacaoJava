@@ -67,7 +67,7 @@ public class Operadores {
 	System.out.println("Digite um número impar: ");
 	int resto = mod.nextInt() % 2;
 	
-	//Lembrando que ao digitar um número para o resultadi sempre será '0'
+	//Lembrando que ao digitar um número par  o resultado sempre será '0'
 	System.out.println("Resto do número é: " + resto);
 	System.out.println("--------------------------------");
 	
