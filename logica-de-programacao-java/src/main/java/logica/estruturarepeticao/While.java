@@ -9,7 +9,7 @@ public class While {
 		// Entrada de dados
 		Scanner ler = new Scanner(System.in);
 		
-		double nota = 0;
+		double nota;
 		int cont = 1;
 		double soma = 0;
 		
