@@ -1,6 +1,5 @@
 package logica.array;
 
-import java.net.MulticastSocket;
 import java.util.Scanner;
 
 // array ou vetor são um agrupador de dados
