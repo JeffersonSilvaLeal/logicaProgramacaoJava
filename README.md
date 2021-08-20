@@ -21,4 +21,4 @@ Jefferson da Silva leal
 https://www.linkedin.com/in/jefferson-da-silva-leal/
 
 ```bash
-# https://github.com/JeffersonSilvaLeal/TicTacToe.git
+# https://github.com/JeffersonSilvaLeal/logicaProgramacaoJava.git
