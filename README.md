@@ -1,4 +1,4 @@
-# logicaProgramacaoJava
+# lógica de Programacao Java
 
 # Sobre o projeto
 Neste projeto segue mini-projetos em java seguindo a lógica de programação, muito importante para novos Devs, e estudantes, onde voçê verá na prática
