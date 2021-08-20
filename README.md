@@ -14,11 +14,11 @@ desde váriaveis, Objetos, array, estrutura de repetição, metodos, operadores 
 ## Back end
 Pré-requisitos: Java 8 
 
-```bash
-# https://github.com/JeffersonSilvaLeal/logicaProgramacaoJava.git
-
-# Autor
+## Autor
 
 Jefferson da Silva leal
 
 https://www.linkedin.com/in/jefferson-da-silva-leal/
+
+```bash
+# https://github.com/JeffersonSilvaLeal/TicTacToe.git
